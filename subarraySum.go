@@ -1,6 +1,6 @@
 package lesson2
 
-//SubarraySum: 统和为 K 的子数组数量
+//SubarraySum: 统计和为指定目标值的子数组数量
 /*parameter
 nums: 整型数组
 target: 目标值
